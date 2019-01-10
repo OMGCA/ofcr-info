@@ -8,7 +8,7 @@ title:               Online Formula Challenge Racing
 tagline:             'Race results, championship standing, documents and more'
 description:         'Info bulletin for OFCR Championship'
 url:                 https://www.weibo.com/u/5886115889
-baseurl:             'https://omgca.github.io/OFCR.info'
+baseurl:             'https://omgca.github.io/ofcr-info'
 paginate:            5
 
 # About/contact
