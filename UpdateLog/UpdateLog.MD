@@ -3,6 +3,8 @@ layout: page
 title: Update Log
 published: true
 ---
+## 2019-01-10 22:13 (GMT+0)  
+目前已经实现使用阿里云服务器搭建Git服务器，似乎推送速度不太理想  
 
 ## 2019-01-10  
 新版mod已经打包完成并已经部署至GitLab，目前我们正在寻找合适的国内节点  
