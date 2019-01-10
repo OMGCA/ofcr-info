@@ -29,7 +29,9 @@ published: true
 ### 2015 赛季  
 2015-08-28 >> [2015赛季SFCR阿布扎比站](/results/2015/2015 SFCR - UAE)
 ### 2014 赛季  
-2014-08-08 >> [2014赛季SFCR中国站](/results/2014/2014 SFCR - China)  
+2014-08-08 >> [2014赛季SFCR中国站](/results/2014/2014 SFCR - China) 
+2014-08-05 >> [2014赛季SFCR巴林站](/results/2014/2014 SFCR - Bahrain)  
+ 
 ### 2013 赛季  
 2013-08-20 >> [2013赛季HHS巴西站](/results/2013/2013 HHS - Brazil)
 ### 2011 赛季（Pt.2)  
