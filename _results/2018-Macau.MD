@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: 2018 OFCR Macau Grand Prix - Classification
-published: true
+published: false
 ---
 
 ## 2018 OFCR Macau Grand Prix - Classification  
