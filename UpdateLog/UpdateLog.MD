@@ -3,6 +3,10 @@ layout: page
 title: Update Log
 published: true
 ---
+## 2019-01-10 22:16 (GMT+0)  
+似乎遇到了点小问题  
+![image](https://i.ibb.co/52qst8J/error.png)  
+
 ## 2019-01-10 22:13 (GMT+0)  
 目前已经实现使用阿里云服务器搭建Git服务器，似乎推送速度不太理想  
 
