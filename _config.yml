@@ -2,21 +2,20 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+title:               Online Formula Challenge Racing
+tagline:             'Race results, championship standing, documents and more'
+description:         'Info bulletin for OFCR Championship'
+url:                 https://www.weibo.com/u/5886115889
+baseurl:             'https://omgca.github.io/OFCR.info'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Tian Xia
+  url:               https://omgca.github.io
+  email:             t.seb.xia@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             0.0.1
