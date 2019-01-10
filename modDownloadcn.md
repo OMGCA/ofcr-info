@@ -18,7 +18,8 @@ published: true
 4. 输入`git remote add upstream http://120.78.160.93:34166/r/assets_ofcr2019.git`进行节点设置并按下回车  
 5. 输入`git pull upstream master`开始进行下载
 6. 初次下载会要求输入用户名和密码，用户名为你的参赛名（全小写，空格处为下划线），密码为你的车号+166（例：3号车手的密码是`03166`, 23号车手的密码是`23166`），没有车号的车手密码默认为`00166`.  
-7. 没有错误信息即代表下载完成。后期进行更新时仅需执行步骤6，并且不需要再次登录  
+7. 下载完成后将`assets_ofcr2019`文件夹下的`OFCR2019.rfm`复制到`//rFactor/rFm`文件夹下。
+8. 后期进行更新时仅需执行步骤5，并且不需要再次登录  
 
 ### GitHub Desktop  
 1. 确保你的电脑已经安装了[GitHub Desktop](https://desktop.github.com/)  
@@ -29,8 +30,9 @@ published: true
 ![image](https://i.ibb.co/ypRzR9d/TIM-20190110234844.png)  
 5. 首次下载会提示输入用户名和密码，用户名为你的参赛名，密码为你的车号+166（例：3号车手的密码是`03166`, 23号车手的密码是`23166`），没有车号的车手密码默认为`00166`.  
 ![image](https://i.ibb.co/LtBr0Zk/TIM-20190110235108.png)
-6. 出现如下界面表示正在进行下载并等待下载完成，mod即可使用  
-![image](https://i.ibb.co/jk78sX3/TIM-20190108000121.png)  
+6. 出现如下界面表示正在进行下载并等待下载完成
+![image](https://i.ibb.co/jk78sX3/TIM-20190108000121.png) 
+7. 下载完成后将`assets_ofcr2019`文件夹下的`OFCR2019.rfm`复制到`//rFactor/rFm`文件夹下,mod即可使用.  
 
 ### 进行更新操作（桌面版）  
 1. 打开如下界面后点击如图所示fetch  
