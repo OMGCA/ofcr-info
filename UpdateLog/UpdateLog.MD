@@ -3,6 +3,9 @@ layout: page
 title: Update Log
 published: true
 ---  
+## 2019-01-10 23:13 (GMT+0)  
+国内节点设置完成，稍后会放出配置文档  
+
 ## 2019-01-10 22:55 (GMT+0)  
 很快就要成功了！ 
 ![image](https://i.ibb.co/yVxWSJn/dewf.png)  
