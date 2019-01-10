@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 2018 OFCR Gran Premio d'Italia - Classification
+title: 2018 OFCR Round 17 - Italy.MD
 published: true
 ---
-<font size="2">
+
+<font size=2>
 <table style="width:120%">
 	<tr>
 		<th>Pos.</th>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 2018 OFCR Bahrain Grand Prix - Classification
+title: 2018 OFCR Round 18 - Bahrain.MD
 published: true
 ---
 
-<font size="2">
+<font size=2>
 <table style="width:120%">
 	<tr>
 		<th>Pos.</th>

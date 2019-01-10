@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 2018 OFCR Japanese Grand Prix - Classification
+title: 2018 OFCR Round 20 - Japan.MD
 published: true
 ---
- 
-<font size="2">
+
+<font size=2>
 <table style="width:120%">
 	<tr>
 		<th>Pos.</th>
@@ -106,4 +106,5 @@ published: true
 		<th>1:30.566</th>
 		<th>-3</th>
 	</tr>
-</table></font>
+</table>
+</font>
