@@ -1,12 +1,11 @@
 ---
-layout: post
-title: 2018 OFCR Macau Grand Prix - Classification
+layout: page
+title: 2018 OFCR Round 19 - Macau.MD
 published: true
 ---
 
-## 2018 OFCR Macau Grand Prix - Classification  
 <font size="2">
-<table style="width:100%">
+<table style="width:120%">
 	<tr>
 		<th>Pos.</th>
 		<th>No.</th>
@@ -107,4 +106,5 @@ published: true
 		<th>N/A</th>
 		<th>-1</th>
 	</tr>
-</table></font>
+</table>
+</font>
