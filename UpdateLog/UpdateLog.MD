@@ -2,7 +2,11 @@
 layout: page
 title: Update Log
 published: true
----
+---  
+## 2019-01-10 22:55 (GMT+0)  
+很快就要成功了！ 
+![image](https://i.ibb.co/yVxWSJn/dewf.png)  
+
 ## 2019-01-10 22:16 (GMT+0)  
 似乎遇到了点小问题  
 ![image](https://i.ibb.co/52qst8J/error.png)  
