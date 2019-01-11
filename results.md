@@ -24,8 +24,12 @@ published: true
   
 ### 2017 赛季  
 2017-10-21 >> [OFCR太平洋站](/results/2017/2017 OFCR - Adelaide)  
-OFCR马来西亚站  
-OFCR意大利站  
+2017-10-14 >> OFCR日本站  
+2017-09-30 >> OFCR巴西站  
+2017-09-23 >> OFCR土耳其站  
+2017-08-17 >> OFCR纽伯格站  
+2017-08-16 >> OFCR马来西亚站  
+2017-08-15 >> OFCR意大利站  
 [OFCR法国站](/results/2017/2017 OFCR - France)  
 [OFCR英国站](/results/2017/2017 OFCR - British)  
 2017-07-17 >> [OFCR西班牙站](/results/2017/2017 OFCR - Spain)  
