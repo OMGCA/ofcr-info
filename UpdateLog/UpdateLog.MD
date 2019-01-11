@@ -3,6 +3,30 @@ layout: page
 title: Update Log
 published: true
 ---  
+## 更新日志：2019年1月11日 
+**本次更新涉及rFm文件更新，在更新下载完成后需手动将`/assets_ofcr2019/ofcr2019.rfm`复制到`//rfactor/rFm`文件夹下** 
+* 物理  
+-更新了惯性参数`Inertia=(646.5,1200.0, 110.2)` => `(690.8, 806.2, 100.2)`  
+-更新了重心参数`CGHeight=0.225`=>`0.23`  
+
+* 赛道  
+-修复了 _中国，日本，葡萄牙，南非，奥地利_ 赛道路肩过陡问题(credits: wagonggong)  
+-修复了 _铃鹿_ 赛道抓地力过强问题  
+
+* 贴图  
+-更新了 Team Russian Poisonous Milk 车队贴图  
+
+* 系统  
+-取消了 Parc Ferme  
+
+* 其他  
+-删除了`SNC_28`相关文件  
+-缩短了 MacauTime Racing 车队队名  
+-更新了`OFCR_2019_Audi.sfx`文件中文件夹名问题  
+-删除了多余的音频文件  
+-更新了车队信息和Pitbox位置信息    
+  
+
 ## 2019-01-10 23:13 (GMT+0)  
 国内节点设置完成，稍后会放出配置文档  
 
