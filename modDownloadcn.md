@@ -21,6 +21,8 @@ published: true
 7. 下载完成后将`assets_ofcr2019`文件夹下的`OFCR2019.rfm`复制到`//rFactor/rFm`文件夹下。
 8. 后期进行更新时仅需执行步骤5，并且不需要再次登录  
 
+**如果遇到不能登录的情况请及时向管理员联系**  
+
 ### GitHub Desktop  
 1. 确保你的电脑已经安装了[GitHub Desktop](https://desktop.github.com/)  
 2. 首次打开GitHub桌面版可能会提示注册账号，该步骤可以跳过  
