@@ -1,15 +1,15 @@
-            {
-                "name": "OFCR",
-                "results": [
-                    {
-                        "name": "2018 Japan",
-                        "log": [
-                            "20JPNR.xml"
-                        ]
-                    },
-                    {
-                        "name": "2018 Macau",
-                        "log": "19MACR.xml"
-                    }
-                ]
-            }
+ {
+    "name": "OFCR",
+    "results": [
+        {
+            "name": "2018 Japan",
+            "log": 
+                "20JPNR.xml"
+                        
+        },
+         {
+            "name": "2018 Macau",
+            "log": "19MACR.xml"
+        }
+    ]
+}
