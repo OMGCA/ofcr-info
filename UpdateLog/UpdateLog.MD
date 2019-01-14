@@ -3,6 +3,20 @@ layout: page
 title: Update Log
 published: true
 ---  
+## 更新日志：2019年1月13日 
+
+* 物理  
+-降低了油耗`FuelConsumption=3.15e-5` ==> `3.11e-5` (2018 spec)  
+-削弱了散热口散热能力`Base 0.95e-3` ==> `0.9e-3`, `Per Setting 2e-4` ==> `1.5e-4`  
+-增加了`OnboardStarter`  
+-统一了软胎和硬胎的抓地力/损耗曲线（以硬胎为准，2018 spec）  
+
+* 赛道  
+-修复了 _新加坡_ 赛道光照问题  
+
+* 其他  
+-添加了`XTG_02`文件组  
+
 ## 更新日志：2019年1月11日 
 **本次更新涉及rFm文件更新，在更新下载完成后需手动将`/assets_ofcr2019/ofcr2019.rfm`复制到`//rfactor/rFm`文件夹下** 
 * 物理  
