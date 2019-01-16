@@ -3,10 +3,26 @@ layout: page
 title: Update Log
 published: true
 ---  
+## 更新日志：2019年1月17日  
+* 物理  
+-油耗参数降低`FuelConsumption=3.11e-5` ==> `2.912e-5`  
+-更正了Launch Control效率系数  
+-增加了Rev Limit限制范围`17500` ==> `18500`  
+-轻微降低了每个boost所带来的引擎磨损`0.15` ==> `0.12`  
+-轻微增强了散热口散热效果`Base 9e-4` ==> `9.25e-4`, `Per 1.5e-4` ==> `1.65e-4`  
+-优化了自动挡换挡算法  
+
+* 游戏  
+-缩短了加油和换胎时间`Fuel rate 4.5 L/s` ==> `6.0 L/s`,`Tire per2 4.5` ==> `3.75`  
+-新增了安全车  
+-增加了`XTG_77`文件组，更新了xTacing OFCR Team贴图  
+
+其他bug修复  
+
 ## 更新日志：2019年1月13日 
 
 * 物理  
--降低了油耗`FuelConsumption=3.15e-5` ==> `3.11e-5` (2018 spec)  
+-降低了油耗`FuelConsumption=3.15e-5` ==> `3.11e-5`  
 -削弱了散热口散热能力`Base 0.95e-3` ==> `0.9e-3`, `Per Setting 2e-4` ==> `1.5e-4`  
 -增加了`OnboardStarter`  
 -Changed Launch Control RPM logic  
