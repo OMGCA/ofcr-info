@@ -3,7 +3,7 @@ layout: page
 title: MOD下载
 published: true
 ---
-<font color="red">**非参赛人员禁止试图从国内节点下载mod**</font>  
+<font color="red">**非参赛人员禁止试图未经申请从国内节点下载mod**</font>  
 **注意：已经下载mod的选手请删除以下文件夹**  
 * //rFactor/GameData/Vehicles/OFCR2019  
 * //rFactor/GameData/Locations/OFCR_2019
@@ -12,6 +12,8 @@ published: true
 * //rFactor/rFm/OFCR2019.rfm  
 * //rFactor/UIData/OFCR2019  
   
+以下介绍两种下载方法，各位请任选**一种**，不要重复下载  
+
 ### 命令行  
 1. 确保你的电脑已经安装了[Git](https://git-scm.com/downloads)  
 2. 在你的rFactor根目录下新建文件夹`assets_ofcr2019`，右击该文件夹，选择`Git Bash Here`  

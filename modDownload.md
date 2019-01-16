@@ -10,7 +10,9 @@ published: true
 * //rFactor/Music/OFCR2019  
 * //rFactor/rFm/OFCR2019.rfm  
 * //rFactor/UIData/OFCR2019  
-  
+    
+以下介绍两种下载方法，各位请任选**一种**，不要重复下载  
+
 ### 命令行  
 1. 确保你的电脑已经安装了[Git](https://git-scm.com/downloads)  
 2. 在你的rFactor根目录下新建文件夹`assets_ofcr2019`，右击该文件夹，选择`Git Bash Here`  
