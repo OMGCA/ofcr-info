@@ -3,6 +3,7 @@ layout: page
 title: MOD下载
 published: true
 ---
+<font color="red">**非参赛人员禁止试图从国内节点下载mod**</font>  
 **注意：已经下载mod的选手请删除以下文件夹**  
 * //rFactor/GameData/Vehicles/OFCR2019  
 * //rFactor/GameData/Locations/OFCR_2019
