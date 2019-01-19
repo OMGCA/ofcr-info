@@ -8,6 +8,7 @@ published: true
 <table>
   <tr>
     <th>Pos</th>
+    <th>No.</th>
     <th>Driver</th>
     <th>Team</th>
     <th>Best lap</th>
@@ -15,6 +16,7 @@ published: true
   </tr>
   <tr>
     <td>1</td>
+    <td>32</td>
     <td>INpurpose</td>
     <td>Yostar AzurLane Racing</td>
     <td>1:03.963</td>
@@ -22,6 +24,7 @@ published: true
   </tr>
   <tr>
     <td>2</td>
+    <td>23</td>
     <td>OMGCA</td>
     <td>xTacing OFCR Team</td>
     <td>1:04.224</td>
@@ -29,13 +32,15 @@ published: true
   </tr>
   <tr>
     <td>3</td>
-    <td>DUO M</td>
+    <td>05</td>
+    <td>DUO MEI</td>
     <td>Scuderia No Crash</td>
     <td>1:04.461</td>
     <td>+0.498</td>
   </tr>
   <tr>
     <td>4</td>
+    <td>01</td>
     <td>wagonggong</td>
     <td>Team Russian Poisonous Milk</td>
     <td>1:04.469</td>
@@ -43,6 +48,7 @@ published: true
   </tr>
   <tr>
     <td>5</td>
+    <td>99</td>
     <td>DumiBirdF</td>
     <td>Team FlyingBird</td>
     <td>1:04.563</td>
@@ -50,20 +56,23 @@ published: true
   </tr>
   <tr>
     <td>6</td>
-    <td>Fukec E</td>
+    <td>47</td>
+    <td>Fukec Eric</td>
     <td>Yostar AzurLane Racing</td>
     <td>1:05.489</td>
     <td>+1.526</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>Parker C</td>
+    <td>48</td>
+    <td>Parker Chen</td>
     <td>MacauTime Racing by SPT</td>
     <td>1:05.658</td>
     <td>+1.695</td>
   </tr>
   <tr>
     <td>8</td>
+    <td>04</td>
     <td>dandan</td>
     <td>MacauTime Racing by SPT</td>
     <td>1:06.010</td>
