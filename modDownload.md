@@ -12,4 +12,4 @@ published: true
 ### 更新/打开rFactor  
 1. 之前使用GitHub Desktop的用户需[下载本文件](https://ofcr.github.io/scripts/OFCR_GUI_Transfer.bat)至rFactor根目录并双击执行，执行后即可删除  
 2. [下载启动器](https://ofcr.github.io/scripts/OFCR_Launcher.bat)至rFactor根目录  
-3. 该启动器会首先检查更新，再打开rFactor.
+3. 该启动器会首先检查更新，再打开rFactor。我们建议在参加OFCR时使用此文件来打开rFactor.  
