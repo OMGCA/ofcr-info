@@ -3,6 +3,10 @@ layout: page
 title: Update Log
 published: true
 ---  
+## 更新日志：2019年1月24日  
+* 贴图  
+-更新了RPM车队贴图  
+  
 ## 更新日志：2019年1月17日  
 * 物理  
 -油耗参数降低`FuelConsumption=3.11e-5` ==> `2.912e-5`  
