@@ -108,7 +108,7 @@ published: true
   </tr>
 </table>
 </font>
-Fastest Lap: 32. INpurpose, Yostar AzurLane, 01:33.991 @ Lap 8  
+Fastest Lap: 32. INpurpose, Yostar AzurLane, 1:33.991 @ Lap 8  
 
 ### Qualifying  
 <font size="2">
@@ -182,7 +182,7 @@ Fastest Lap: 32. INpurpose, Yostar AzurLane, 01:33.991 @ Lap 8
     <td>04</td>
     <td>dandan</td>
     <td>MacauTime Racing by SPT</td>
-    <td>1:41.6530</td>
+    <td>1:41.653</td>
     <td>+9.345</td>
   </tr>
 </table>
