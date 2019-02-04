@@ -116,6 +116,8 @@ published: true
   </tr>
 </table>
 </font>
+Fastest Lap: 32. INpurpose, Yostar AzurLane, 1:04.608 @ Lap 9  
+
 ### Qualifying  
 <font size="2">
 <table>
